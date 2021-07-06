@@ -40,7 +40,7 @@ h1{
 }
 .experience-item{
     box-shadow: 10px 10px 40px greenyellow;
-    border: 10px solid;
+    border-left: 10px solid;
     margin-left: 5%;
     margin-right: 5%;
     padding: 10px 20px;
