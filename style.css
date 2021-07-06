@@ -4,11 +4,12 @@ body{
 }
 h1{
     font-size: 40px;
+    
 }
 .bb{
     color: blueviolet;
 }
-section{
+.Flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -35,5 +36,21 @@ section{
     background-image: url(images/dream-bg.png );
     background-repeat: no-repeat;
     background-position: right;
+    
+}
+.experience-item{
+    box-shadow: 10px 10px 40px greenyellow;
+    border: 10px solid;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px 20px;
+    text-align: justify;
+    
+}
+.experience{
+    margin-left: 40px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
     
 }
